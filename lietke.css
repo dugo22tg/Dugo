@@ -1,0 +1,25 @@
+td:last-child{
+    width: 140px;
+    width: auto;
+}
+.btn{
+    margin-left: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+th:last-child{
+    text-align: center;
+}
+.table{
+    width: 50%;
+    border: 1px solid rgb(56, 170, 223);
+    border-collapse: collapse ;
+    text-align: left;
+}
+tr,td,th{
+    background-color: rgb(123, 172, 230);
+    border: 1px solid rgb(56, 170, 223);
+}
+tr:hover{
+    background-color: rgb(245, 245, 245);
+}
